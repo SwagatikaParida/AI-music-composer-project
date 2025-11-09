@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+Django==5.2.7
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+transformers
+torch
+scipy
+=======
+Django==5.2.7
+djangorestframework
+djangorestframework-simplejwt
+drf-yasg
+transformers
+torch
+scipy
+>>>>>>> c25426a0d49250110b7f88b1d3e91981b8699196

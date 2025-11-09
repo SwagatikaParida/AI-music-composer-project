@@ -1,2 +1,2 @@
-# AI-music-composer-project
+# AI-music-composer
 AI-music-composer
